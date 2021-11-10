@@ -13,3 +13,6 @@ article > * { width: calc(100% - 40px); }
 body { min-width: 320px; }
 article > * { width: calc(100% - 40px); }
 }
+@media all and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+ .sidebar { display: none; }
+}

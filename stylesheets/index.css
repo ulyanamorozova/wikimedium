@@ -1,3 +1,6 @@
+body {
+  background: #eee;
+}
 .index-item {
   display: block;
   position: relative;

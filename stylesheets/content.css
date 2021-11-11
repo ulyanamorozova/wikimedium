@@ -36,9 +36,9 @@ article blockquote::before {
   top: 0;
   left: -20px;
 }
-article img { display: block; width: 1020px; margin: 79px auto 0;
+article img { display: block; width: 1020px; margin: 30px auto 0;
 }
-article img + h2 { margin-top: 79px;
+article img + h2 { margin-top: 30px;
 }
 article img + p,
 article img + blockquote,
